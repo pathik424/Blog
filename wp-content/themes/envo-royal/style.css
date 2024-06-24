@@ -1844,3 +1844,7 @@ th {
     opacity: 1;
     visibility: visible;
 }
+
+.footer-credits-text{
+	display:none;
+}

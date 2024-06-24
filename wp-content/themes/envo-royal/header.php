@@ -11,6 +11,4 @@
         <div class="page-wrap">
             <?php do_action('envo_royal_page_area'); ?> 
 			
-			<?php
-echo do_shortcode('[smartslider3 slider="2"]');
-?>
+
