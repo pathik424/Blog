@@ -745,7 +745,27 @@ ________________________________________________________________________________
 9. Custom Plugin create. 
 
 
+
+
+Woocomerce
+
+- Custome Product Page
+- Assign Product page
+- Display Product 
+- 1. Features Product (5)
+- 2. 9 product display / ajax filter / price high to low /low to high
+- 3. Best Seller ni 6 product Slider 
+
+- Perticular Product Open Karu Ema Gift Card Message Option
+- Add to cart Pachi Cart nu page ma 
+
           */
+
+
+
+
+
+          
 
 ?>
        <style>
